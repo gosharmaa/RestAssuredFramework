@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke Suite for SFDC CLM Classic">
+  <test name="test" parallel="classes">
+    <classes>
+		<class name="getRequest.myApis" />
+	</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
