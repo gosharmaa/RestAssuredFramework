@@ -1,0 +1,15 @@
+{
+"testResponseCode": {
+	"id": "1",
+	"employee_name": "Tiger Nixon,Garrett Winters,Ashton Cox,Cedric Kelly,Airi Satou,Brielle Williamson,Herrod Chandler,Rhona Davidson,Colleen Hurst,Sonya Frost,Jena Gaines,Quinn Flynn,Charde Marshall,Haley Kennedy,Tatyana Fitzpatrick,Michael Silva,Paul Byrd,Gloria Little,Bradley Greer,Dai Rios,Jenette Caldwell,Yuri Berry,Caesar Vance,Doris Wilder",
+	"URL":"http://dummy.restapiexample.com/api/v1/employees"
+},
+"createEmployeeRecord": {
+	"id":"341134",
+	"profile_image":"",
+	"employee_name":"testEmployee",
+	"employee_salary":"440000",
+	"employee_age":"29",
+	"URL":"http://dummy.restapiexample.com/api/v1/create"
+}
+}

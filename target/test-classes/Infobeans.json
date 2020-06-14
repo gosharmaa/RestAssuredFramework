@@ -1,0 +1,18 @@
+{
+"getEmpDetails": {
+	"FirstName":"Govinda",
+	"id":"3"
+},
+"addEmployee": {
+	"URL":"http://localhost:3000/employees",
+	"Key1":"id",
+	"Key2":"first_name",
+	"Key3":"last_name",
+	"Key4":"email",
+	"Value1":"4",
+	"Value2":"Ayush",
+	"Value3":"Agrawal",
+	"Value4":"ayush.agrawal@infobeans.com",
+	"paraSize":"4"
+} 
+}
